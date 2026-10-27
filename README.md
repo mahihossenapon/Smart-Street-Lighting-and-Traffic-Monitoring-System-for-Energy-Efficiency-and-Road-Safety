@@ -32,7 +32,7 @@ An Arduino Uno acts as the central controller. The LDR detects ambient light, th
 
 ## System Model
 
-![System Model](System_Model.png)
+![System Model](System model.png)
 
 The system model illustrates the main hardware components and their connections to the Arduino Uno controller.
 
@@ -44,7 +44,7 @@ The prototype demonstrates the integration of the controller, sensors, Bluetooth
 
 ## Flowchart and Block Diagram
 
-![Flowchart and Block Diagram](Flowchart_Block_Diagram.png)
+![Flowchart and Block Diagram](Flow chart and block diagram of the project.png)
 
 The control process initializes the components, checks ambient light, monitors vehicle presence at night, adjusts LED brightness, and updates monitoring information.
 
@@ -87,7 +87,7 @@ Lights OFF              Monitor Traffic
 
 ## Automatic Light Control Results
 
-![Automatic Light Control Results](Automatic_Light_Control_Results.png)
+![Automatic Light Control Results](Automatic Light Control Results.png)
 
 | Operating Condition | LED Brightness |
 |---|---:|
@@ -97,7 +97,7 @@ Lights OFF              Monitor Traffic
 
 ## Energy Consumption Comparison
 
-![Energy Consumption Comparison Results](Energy_Consumption_Comparison_Results.png)
+![Energy Consumption Comparison Results](Energy Consumption Comparison Results.png)
 
 | System | Daily Energy Consumption | Monthly Energy Consumption |
 |---|---:|---:|
