@@ -29,6 +29,7 @@ An Arduino Uno acts as the central controller. The LDR detects ambient light, th
 - LED street lights and compatible driver
 - Power supply and connecting wires
 
+
 ## System Model
 
 ![System Model](System_Model.png)
@@ -84,8 +85,6 @@ Lights OFF              Monitor Traffic
                       Repeat Process
 ```
 
-**Note:** This algorithm summarizes the control logic described in the project report. Actual behavior depends on the Arduino code and hardware implementation.
-
 ## Automatic Light Control Results
 
 ![Automatic Light Control Results](Automatic_Light_Control_Results.png)
@@ -96,11 +95,16 @@ Lights OFF              Monitor Traffic
 | Nighttime, No Traffic | 35% |
 | Nighttime, Vehicle Detected | 100% |
 
-These reported results demonstrate how adaptive lighting can provide illumination when needed while reducing unnecessary power consumption.
-
 ## Energy Consumption Comparison
 
 ![Energy Consumption Comparison Results](Energy_Consumption_Comparison_Results.png)
+
+| System | Daily Energy Consumption | Monthly Energy Consumption |
+|---|---:|---:|
+| Conventional Lighting | 1.20 kWh | 36.00 kWh |
+| Proposed Smart System | 0.52 kWh | 15.60 kWh |
+
+According to the project report, the proposed system achieves approximately **56.7% energy savings** compared with conventional lighting operating continuously at full brightness.
 
 | System | Daily Energy Consumption | Monthly Energy Consumption |
 |---|---:|---:|
