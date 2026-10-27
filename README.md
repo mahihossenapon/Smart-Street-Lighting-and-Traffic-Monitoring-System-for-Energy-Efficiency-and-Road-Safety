@@ -32,7 +32,7 @@ An Arduino Uno acts as the central controller. The LDR detects ambient light, th
 
 ## System Model
 
-![System Model](System model.jpg)
+![System Model](System%20model.jpg)
 
 The system model illustrates the main hardware components and their connections to the Arduino Uno controller.
 
