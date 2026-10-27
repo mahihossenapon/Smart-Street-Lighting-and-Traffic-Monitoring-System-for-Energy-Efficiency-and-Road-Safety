@@ -44,7 +44,7 @@ The prototype demonstrates the integration of the controller, sensors, Bluetooth
 
 ## Flowchart and Block Diagram
 
-![Flowchart and Block Diagram](Flow chart and block diagram of the project.ppg)
+![Flowchart and Block Diagram](Flow%20chart%20and%20block%20diagram%20of%20the%20project.jpg)
 
 The control process initializes the components, checks ambient light, monitors vehicle presence at night, adjusts LED brightness, and updates monitoring information.
 
