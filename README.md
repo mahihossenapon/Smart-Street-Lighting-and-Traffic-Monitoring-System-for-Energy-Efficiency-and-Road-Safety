@@ -87,7 +87,7 @@ Lights OFF              Monitor Traffic
 
 ## Automatic Light Control Results
 
-![Automatic Light Control Results](Automatic Light Control Results.jpg)
+![Automatic Light Control Results](Automatic%20Light%20Control%20Results.jpg)
 
 | Operating Condition | LED Brightness |
 |---|---:|
@@ -97,7 +97,7 @@ Lights OFF              Monitor Traffic
 
 ## Energy Consumption Comparison
 
-![Energy Consumption Comparison Results]( Energy Consumption Comparison Results.jpg)
+![Energy Consumption Comparison Results](Energy%20Consumption%20Comparison%20Results.jpg)
 
 | System | Daily Energy Consumption | Monthly Energy Consumption |
 |---|---:|---:|
